@@ -1,2 +1,2 @@
 # SuperRoulette
-[https://patchstorage.com/superroulette/]
+https://patchstorage.com/superroulette/
